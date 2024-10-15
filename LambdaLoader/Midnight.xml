@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Theme>
+  <Colors>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <!-- White -->
+    <FontColor>#000000</FontColor>
+    <!-- Black -->
+    <ButtonColor>#007BFF</ButtonColor>
+    <!-- Blue -->
+    <ButtonFontColor>#FFFFFF</ButtonFontColor>
+    <!-- White -->
+  </Colors>
+  <Fonts>
+    <FontFamily>Arial</FontFamily>
+    <FontSize>12</FontSize>
+  </Fonts>
+</Theme>
