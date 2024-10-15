@@ -81,7 +81,7 @@ namespace LambdaLoader
         {
             checkBoxSteam.Checked = true;
             textBoxHostname.Clear();
-            textBoxHostname.Text = "A Lambda Loader Server";
+            textBoxHostname.Text = "A Lambda Launcher Server";
             upDownMaxPlayers.Value = 8;
             textBoxServerPassword.Clear();
             checkBoxTMrobo.Checked = true;

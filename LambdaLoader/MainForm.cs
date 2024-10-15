@@ -122,7 +122,7 @@ namespace LambdaLoader
 
             Label titleLabel = new Label
             {
-                Text = "Lambda Loader Beta 1",
+                Text = "Lambda Launcher Beta 2",
                 ForeColor = Color.White,
                 BackColor = Color.Transparent,
                 AutoSize = true,
@@ -1198,7 +1198,7 @@ namespace LambdaLoader
         }//                                       Menustrip       Map Folder Controls Window
         private void checkForUpdatesToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://twhl.info/user/view/8914");
+            System.Diagnostics.Process.Start("https://github.com/frashure11/LambdaLauncher");
         }//                                         Menustrip       Show Check for Updates 
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {

@@ -171,6 +171,11 @@
     <None Include="bin\Release\hlgsrc.jpg" />
     <Content Include="devs_README.txt" />
     <Content Include="game.ico" />
+    <Content Include="git_ad01.png" />
+    <Content Include="git_ad02.png" />
+    <Content Include="git_ad03.png" />
+    <Content Include="git_ad04.png" />
+    <Content Include="git_ad05.png" />
     <Content Include="LL Logo.ico" />
     <Content Include="LL256.ico" />
     <Content Include="Midnight.xml" />
