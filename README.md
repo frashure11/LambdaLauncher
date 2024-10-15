@@ -34,3 +34,4 @@ Bugs
 To Do:
 * Fix bugs.
 * Finish the Game Profile selector to make it easier on users who have multiple servers they launch. Documentation for my plans on this are in devs_README.
+* Fix the inconsistencies in naming
